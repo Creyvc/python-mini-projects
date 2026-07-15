@@ -27,3 +27,4 @@ while guess_count < chances:
 
     elif guess < number:
         print("Too low! Try a higher number.")
+#1
